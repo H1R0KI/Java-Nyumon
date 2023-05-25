@@ -1,0 +1,4 @@
+if (str == "夕日")
+if (str.equals == "夕日")  // "==" ではなく "equals"を入れる
+
+if (name.equals("斎藤") || name.equals("斉藤")) など
