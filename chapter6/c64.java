@@ -1,3 +1,4 @@
+package calcapp.logics; //パッケージに所属させる
 public class c64 {
   public static void main(String[] args) {
     int a = 10; int b = 2;
